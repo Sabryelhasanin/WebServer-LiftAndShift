@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Prerequisites
 #
 - JDK 1.8 or later
@@ -23,3 +24,6 @@ Then look for the file :
 - > mysql -u <user_name> -p accounts < accountsdb.sql
 
 
+=======
+# WebServer-LiftAndShift
+>>>>>>> ca1499fb85fda61c1ee724f587761d8131ff4ffe
